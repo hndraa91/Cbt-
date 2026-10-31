@@ -1,0 +1,6 @@
+{
+  "name": "CBT PIK-R KUAS SMANDA",
+  "description": "Aplikasi CBT Ujian PIK-R KUAS SMANDA dengan Panel Admin dan Peserta, proctoring pengawasan real-time, dan alarm otomatis deteksi keluar ujian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
